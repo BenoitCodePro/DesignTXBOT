@@ -1,0 +1,3 @@
+;Decalage de la tête jusqu'a la buté X
+G28 X
+G4 S500
